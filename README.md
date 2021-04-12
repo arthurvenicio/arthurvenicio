@@ -1,6 +1,5 @@
 ### <h1>Hi i'm Arthur Venicio ! </h1>
 
-##
  <div>
   <a href="https://github.com/arthurvenicio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
