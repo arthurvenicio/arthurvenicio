@@ -1,10 +1,15 @@
-### <h1> Hi i'm Arthur Venicio ! </h1>
+### <h1>Hi i'm Arthur Venicio ! </h1>
 
+##
  <div>
   <a href="https://github.com/arthurvenicio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvenicio&layout=compact&langs_count=8&theme=radical"/>
 <div>
+
+##
+
+<h3>I have skills in:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
