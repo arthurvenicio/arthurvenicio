@@ -1,7 +1,8 @@
 ### Hi i'm Arthur Venicio ! 
  <div>
+  <a href="https://github.com/arthurvenicio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuvenicio&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvenicio&layout=compact&langs_count=8&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
