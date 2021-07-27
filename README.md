@@ -23,3 +23,6 @@
   <a href="https://www.linkedin.com/in/arthurvenicio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/arthurvenicio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+ 
+ ## Music:
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31cfkwepxdb2znyemnyiglv2l3jq&width=650)](https://open.spotify.com/user/31cfkwepxdb2znyemnyiglv2l3jq)
